@@ -14,7 +14,7 @@ public class SpringBootController {
 
     //----------------------------------------------------------------------------------------------------------------//
 
-
+    //Small changes to test git push.
     //Giver KUN adgang til URLs indhold
 
     // 1.1 Exercise
